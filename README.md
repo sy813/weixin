@@ -9,7 +9,7 @@
 
 ##功能演示：
 
-![Alt demo](./static/img/ie.PNG)
+![Alt demo](./static/img/ie.png)
 
 
 
